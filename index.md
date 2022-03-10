@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/KLYN74R/klyn74r.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<div align="center">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 👽 Welcome to Klyntar 🤖
 
-### Markdown
+![Alt Text](https://user-images.githubusercontent.com/56048647/147860501-f043ee0e-f6e2-4ecb-8f93-f2673ed999f6.gif)
+![Alt Text](https://user-images.githubusercontent.com/56048647/147860844-974225f6-312d-4960-825f-4c9f4f4ad589.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KLYN74R/klyn74r.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
+We'll start our journey soon!
+  
+## 🔗Links
+[<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>](https://www.reddit.com/r/KLYN74R/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/KLYN74R)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://klyntar.medium.com/)
+[<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>](https://www.tiktok.com/@klyn74r)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/klyn74r/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/KLYN74R)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/KLYN74R)
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://t.me/KLYN74R)<!--Soon-->
+[<img src="https://img.shields.io/badge/Tor%20site-330F63?style=for-the-badge&logoColor=white"/>](http://klyntar66kjwhyirucco6sjgyp2f7lfznelzgpjcp6oha2olzb4rlead.onion)
+  
+</div>
