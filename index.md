@@ -3,13 +3,13 @@
 
  <h1>
 👽 Welcome to Klyntar 🤖
- <h2>
+ </h1>
   
  <img src="https://user-images.githubusercontent.com/56048647/147860501-f043ee0e-f6e2-4ecb-8f93-f2673ed999f6.gif"/>
  <img src="https://user-images.githubusercontent.com/56048647/147860844-974225f6-312d-4960-825f-4c9f4f4ad589.gif"/>
 
   
-We'll start our journey soon!
+<p>We'll start our journey soon!</p>
   
 ## 🔗Links
 [<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>](https://www.reddit.com/r/KLYN74R/)
@@ -21,5 +21,5 @@ We'll start our journey soon!
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/KLYN74R)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://t.me/KLYN74R)<!--Soon-->
 [<img src="https://img.shields.io/badge/Tor%20site-330F63?style=for-the-badge&logoColor=white"/>](http://klyntar66kjwhyirucco6sjgyp2f7lfznelzgpjcp6oha2olzb4rlead.onion)
-  
+
 </div>
