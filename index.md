@@ -56,7 +56,7 @@
         position: absolute;
         background-color: #000000;
         background-image: url('https://i.pinimg.com/originals/e3/ba/10/e3ba1023196d8a945f9e163dc854741b.jpg');
-        background-size: cover; */
+        background-size: cover;
         left: 0%;
         top: 0%;
         width: 100%;
