@@ -1,17 +1,31 @@
+<!--
 
-<div align="center" class="holder">
+                                                                                     Created by KLYNTAR
+    
+                                                                                            2022
+    
+                                                                                    All rights reserved
 
- <h1>
-👽 Welcome to Klyntar 🤖
- </h1>
-  
- <img src="https://user-images.githubusercontent.com/56048647/147860501-f043ee0e-f6e2-4ecb-8f93-f2673ed999f6.gif"/>
- <img src="https://user-images.githubusercontent.com/56048647/147860844-974225f6-312d-4960-825f-4c9f4f4ad589.gif"/>
+    
 
-  
+-->
+
+<head>
+    <title>Vlad</title>
+    <link rel="shortcut icon" href="icon_32.ico">
+</head>
+
+<div class="holder">
+
+    <div class="over">
+
+        <h1>👽 Welcome to Klyntar 🤖</h1>
+</div>
+
+<div class="main_info">
 <p>We'll start our journey soon!</p>
   
-<p>🔗Links</p>
+<p>🔗links</p>
 <a href="https://www.reddit.com/r/KLYN74R/">
  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
@@ -43,24 +57,53 @@
 </a>
 
 </div>
+           
+    </div>
 
+</div>
 
 
 <style type="text/css">
 
 
     @import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
-    
-    
+
     .holder {
-        position: absolute;
-        background-color: #000000;
-        background-image: url('https://i.pinimg.com/originals/e3/ba/10/e3ba1023196d8a945f9e163dc854741b.jpg');
-        background-size: cover;
+        zoom: 0.7;
+        position:fixed;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://wallpapercave.com/uwp/uwp1856720.gif');
         left: 0%;
         top: 0%;
         width: 100%;
         height: 100%;
     }
 
-</style>
+    .over {
+        font-family: 'Major Mono Display', monospace;
+        color: #ffffff;
+        font-size: 20px;
+        position: absolute;
+        left: 50%;
+        top: 30%;
+        width: 100%;
+        transform: translateX(-50%) translateY(-50%);
+        text-align: center;
+    }
+
+    .main_info {
+        font-family: 'Major Mono Display', monospace;
+        color: #ffffff;
+        font-size: 20px;
+        position: absolute;
+        left: 50%;
+        top: 60%;
+        width: 200%;
+        transform: translateX(-50%) translateY(-50%);
+        text-align: center;
+    }
+
+
+
+    </style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
