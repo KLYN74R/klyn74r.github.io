@@ -1,5 +1,5 @@
 
-<div align="center" class+"holder">
+<div align="center" class="holder">
 
  <h1>
 👽 Welcome to Klyntar 🤖
