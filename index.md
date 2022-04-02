@@ -11,7 +11,7 @@
   
 <p>We'll start our journey soon!</p>
   
-## 🔗Links
+<p>🔗Links</p>
 <a href="https://www.reddit.com/r/KLYN74R/">
  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
