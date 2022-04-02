@@ -55,12 +55,11 @@
 <a href="http://klyntar66kjwhyirucco6sjgyp2f7lfznelzgpjcp6oha2olzb4rlead.onion">
  <img src="https://img.shields.io/badge/Tor%20site-330F63?style=for-the-badge&logoColor=white"/>
 </a>
-
-</div>
-           
-    </div>
-
-</div>
+  
+ <a href="https://www.youtube.com/channel/UC3TiyK40an6rQlf3BarMDoQ">
+ <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+ </div>
 
 
 <style type="text/css">
